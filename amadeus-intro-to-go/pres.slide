@@ -7,7 +7,7 @@ Matthieu Rakotojaona
 Based on these talks:
 
 Go for Javaïstes
-.link http://talks.golang.org/2014/go4java.slide
+.link https://talks.golang.org/2014/go4java.slide
 
 Programming in Go (bgmerrell on github)
 .link https://talks.godoc.org/github.com/bgmerrell/presentations/programming-in-go.slide
@@ -16,7 +16,7 @@ Intro to Go (bgmerrell on github)
 .link https://talks.godoc.org/github.com/bgmerrell/presentations/intro-to-go.slide
 
 Introduction to Go (fzerorubigd on github)
-.link http://talks.godoc.org/github.com/fzerorubigd/golang-slides/ubuntu.slide
+.link https://talks.godoc.org/github.com/fzerorubigd/golang-slides/ubuntu.slide
 
 * What is Go?
 
@@ -40,7 +40,7 @@ Google:
 
 + Mozilla, Cloudflare, Dropbox, BBC
 
-[[http://golang.org/wiki/GoUsers][golang.org/wiki/GoUsers]]
+[[https://golang.org/wiki/GoUsers][golang.org/wiki/GoUsers]]
 
 * Why Go?
 
@@ -352,9 +352,9 @@ Java interfaces are satisfied *explicitly*.
 
 Go interfaces are satisfied *implicitly*.
 
-.image //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rolling_Stones_09.jpg/512px-Rolling_Stones_09.jpg _ 512
+.image https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rolling_Stones_09.jpg/512px-Rolling_Stones_09.jpg _ 512
 
-Picture by Gorupdebesanez [[http://creativecommons.org/licenses/by-sa/3.0][CC-BY-SA-3.0]], via [[http://commons.wikimedia.org/wiki/File%3ARolling_Stones_09.jpg][Wikimedia Commons]]
+Picture by Gorupdebesanez [[https://creativecommons.org/licenses/by-sa/3.0][CC-BY-SA-3.0]], via [[https://commons.wikimedia.org/wiki/File%3ARolling_Stones_09.jpg][Wikimedia Commons]]
 
 * Go: implicit satisfaction
 
@@ -662,9 +662,9 @@ Channel operations synchronize the communicating goroutines.
 
 And there's lots to learn!
 
-- [[http://talks.golang.org/2012/concurrency.slide#1][Go Concurrency Patterns]], by Rob Pike
-- [[http://talks.golang.org/2013/advconc.slide#1][Advanced Concurrency Patterns]], by Sameer Ajmani
-- [[http://talks.golang.org/2012/waza.slide#1][Concurrency is not Parellelism]], by Rob Pike
+- [[https://talks.golang.org/2012/concurrency.slide#1][Go Concurrency Patterns]], by Rob Pike
+- [[https://talks.golang.org/2013/advconc.slide#1][Advanced Concurrency Patterns]], by Sameer Ajmani
+- [[https://talks.golang.org/2012/waza.slide#1][Concurrency is not Parellelism]], by Rob Pike
 
 .image pres/busy.jpg
 
@@ -682,7 +682,7 @@ And there's lots to learn!
 
 Try stdlib first, if nothing found go for an external library
 
-.link http://golang.org/pkg/
+.link https://golang.org/pkg/
 
 * Excellent cross platform support
 
@@ -702,7 +702,7 @@ go build [-race] ([[https://golang.org/doc/articles/race_detector.html]])
 
 go test [-cover] ([[https://blog.golang.org/cover]])
 
-go test [-bench] ([[http://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go]])
+go test [-bench] ([[https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go]])
 
 go vet
 
@@ -775,12 +775,12 @@ Concurrency is awesome, and you should check it out.
 
 * What to do next?
 
-Learn Go on your browser with [[http://tour.golang.org][tour.golang.org]]
+Learn Go on your browser with [[https://tour.golang.org][tour.golang.org]]
 
-Play with it at [[http://play.golang.org][play.golang.org]]
+Play with it at [[https://play.golang.org][play.golang.org]]
 
 Learn how to write effective Go at [[https://golang.org/doc/effective_go.html][Effective Go]]
 
-Find more about Go on [[http://golang.org][golang.org]]
+Find more about Go on [[https://golang.org][golang.org]]
 
 Join the community at [[https://groups.google.com/forum/#!forum/Golang-nuts][golang-nuts]]
